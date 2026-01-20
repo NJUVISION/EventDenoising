@@ -50,7 +50,7 @@ You can use the sample data in ./data for quick testing, or download the complet
 | Dataset  | Usage | 
 |----------| --------|
 |[ED24](https://pan.baidu.com/s/18DWwTg7LNiuJN4dxTp51eg?pwd=3905) | EDformer++ and ENRR Training |
-|[DND21](https://pan.baidu.com/s/1Z61K5hRxjxEV-Pfs28_htg?pwd=3905) | AUC and ENR Evaluation |
+|[DND21](https://pan.baidu.com/s/1Z5Q9Y5bTUAPepC2DvsOIVg?pwd=j3v6) | AUC and ENR Evaluation |
 |[DVSCLEAN](https://drive.google.com/file/d/14FJD-kf9NA-bdWVWHK35ewLiLVdBnNSq/view?usp=share_link) | SNR Evaluation |
 |[ED-KoGTL](https://github.com/yusra-alkendi/ed-kogtl) | SNR Evaluation |
 |[E-MLB](https://github.com/KugaMaxx/cuke-emlb) | MESR Evaluation |
